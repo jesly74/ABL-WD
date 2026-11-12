@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Online Learning Platform</title>
+
+<style>
+body {
+    background-color: lavender;
+    font-family: Arial;
+    text-align: center;
+}
+header {
+    background-color: purple;
+    color: white;
+    padding: 20px;
+}
+.box {
+    background-color: white;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid purple;
+}
+button {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>LearnHub</h1>
+<p>Learn Anytime, Anywhere</p>
+</header>
+
+<div class="box">
+<h2>HTML and CSS</h2>
+<img src="https://placehold.co/150x80" alt="HTML Course">
+<p>Learn website development.</p>
+<p>Instructor: Ravi</p>
+<button>Enroll Now</button>
+</div>
+
+<div class="box">
+<h2>Computer Fundamentals</h2>
+<img src="https://placehold.co/150x80" alt="Computer Course">
+<p>Learn basic computer skills.</p>
+<p>Instructor: Priya</p>
+<button>Enroll Now</button>
+</div>
+
+<div class="box">
+<h2>UI Design</h2>
+<img src="https://placehold.co/150x80" alt="UI Design Course">
+<p>Learn user interface design.</p>
+<p>Instructor: Kumar</p>
+<button>Enroll Now</button>
+</div>
+
+<div class="box">
+<h2>Learning Objectives</h2>
+<ul>
+<li>Learn new skills</li>
+<li>Improve knowledge</li>
+<li>Practice lessons</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>Contact</h2>
+<p>Email: learnhub@gmail.com</p>
+</div>
+
+</body>
+</html>

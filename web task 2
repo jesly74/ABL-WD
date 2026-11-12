@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>College Website</title>
+
+<style>
+body {
+    background-color: lightyellow;
+    font-family: Arial;
+}
+header {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.box {
+    background-color: white;
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid green;
+}
+h2 {
+    color: darkgreen;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>ABC College</h1>
+<p>Welcome to Our College</p>
+</header>
+
+<div class="box">
+<h2>About College</h2>
+<p>Our college provides quality education.</p>
+</div>
+
+<div class="box">
+<h2>Departments</h2>
+<ul>
+<li>Computer Science</li>
+<li>Commerce</li>
+<li>Mathematics</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>Courses</h2>
+<ol>
+<li>BCA</li>
+<li>B.Com</li>
+<li>B.Sc</li>
+</ol>
+</div>
+
+<div class="box">
+<h2>Facilities</h2>
+<ul>
+<li>Library</li>
+<li>Computer Lab</li>
+<li>Sports</li>
+</ul>
+</div>
+
+<div class="box">
+<h2>Admissions</h2>
+<p>Contact our college for admission details.</p>
+<a href="mailto:college@gmail.com">Apply Now</a>
+</div>
+
+<div class="box">
+<h2>Contact</h2>
+<p>Email: college@gmail.com</p>
+<p>Phone: 9876543210</p>
+</div>
+
+</body>
+</html>
